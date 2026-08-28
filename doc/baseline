@@ -38,6 +38,7 @@ extra.omnios ooce/application/vaultwarden
 extra.omnios ooce/application/zabbix-agent
 extra.omnios ooce/application/zabbix-server
 extra.omnios ooce/audio/flac
+extra.omnios ooce/audio/lame
 extra.omnios ooce/audio/opus
 extra.omnios ooce/compress/lz4 r
 extra.omnios ooce/compress/pbzip2
@@ -67,6 +68,7 @@ extra.omnios ooce/database/postgresql-17/pg_repack
 extra.omnios ooce/database/postgresql-18
 extra.omnios ooce/database/postgresql-common
 extra.omnios ooce/database/rrdtool
+extra.omnios ooce/database/victorialogs
 extra.omnios ooce/database/victoriametrics
 extra.omnios ooce/developer/aarch64-esr-decoder
 extra.omnios ooce/developer/aarch64-gcc10 o
@@ -98,8 +100,8 @@ extra.omnios ooce/developer/flamegraph
 extra.omnios ooce/developer/freepascal
 extra.omnios ooce/developer/gdb
 extra.omnios ooce/developer/git-absorb
-extra.omnios ooce/developer/go-125
 extra.omnios ooce/developer/go-126
+extra.omnios ooce/developer/go-127
 extra.omnios ooce/developer/gperf
 extra.omnios ooce/developer/gyp
 extra.omnios ooce/developer/llvm-13
@@ -288,6 +290,7 @@ extra.omnios ooce/terminal/byobu
 extra.omnios ooce/terminal/minicom
 extra.omnios ooce/terminal/picocom
 extra.omnios ooce/terminal/starship
+extra.omnios ooce/terminal/zoxide
 extra.omnios ooce/text/asciidoc
 extra.omnios ooce/text/asciidoctor
 extra.omnios ooce/text/asciinema
